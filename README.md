@@ -98,7 +98,7 @@ yarn build
 
 ## Архитектура приложения (бизнес логика)
 
-![pocess](web-larek-frontend.process.svg)
+![process](web-larek-frontend.process.drawio.png)
 
 ## Базовый код
 
